@@ -1,5 +1,5 @@
 fun main() {
-   val solution = One()
+   val solution = Two()
 
    solution.run()
 }
