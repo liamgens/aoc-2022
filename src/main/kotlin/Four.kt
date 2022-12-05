@@ -8,19 +8,19 @@ class Four : Solution() {
         }
     }
 
-    override fun pt1(): String = parseInput().map { pairs ->
+    override fun pt1(): Int = parseInput().map { pairs ->
         val e1 = pairs.first
         val e2 = pairs.second
 
         if (e1.first() <= e2.first() && e1.last() >= e2.last()) {
             true
         } else e2.first() <= e1.first() && e2.last() >= e1.last()
-    }.filter { it }.size.toString()
+    }.filter { it }.size
 
-    override fun pt2(): String = parseInput().map { pairs ->
+    override fun pt2(): Int = parseInput().map { pairs ->
         val e1 = pairs.first
         val e2 = pairs.second
 
         (e1.first() <= e2.last() && e1.last() >= e2.first())
-    }.filter { it }.size.toString()
+    }.filter { it }.size
 }

@@ -1,5 +1,10 @@
 fun main() {
-   val solution = Four()
 
-   solution.run()
+    val solutions = listOf(
+        One(),
+        Two(),
+        Three(),
+        Four()
+    )
+    solutions.forEach { it.run() }
 }
