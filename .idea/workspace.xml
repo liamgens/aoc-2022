@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55816167-c779-4c56-99a2-0d114c7b6ada" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Five.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Four.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/One.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Six.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Three.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Two.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/five.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/four.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/one.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/six.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/three.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/two.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="2IWkYZV8lYCpwSYlnNMey29Gdqw" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55816167-c779-4c56-99a2-0d114c7b6ada" name="Changes" comment="" />
+      <created>1670304776881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670304776881</updated>
+      <workItem from="1670304778216" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
