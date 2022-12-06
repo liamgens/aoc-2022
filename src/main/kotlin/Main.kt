@@ -4,7 +4,8 @@ fun main() {
         Two(),
         Three(),
         Four(),
-        Five()
+        Five(),
+        Six()
     )
     solutions.forEach { it.run() }
 }
